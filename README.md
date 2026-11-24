@@ -1,0 +1,1 @@
+# vsc_stm32_template
