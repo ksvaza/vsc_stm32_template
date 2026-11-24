@@ -1,0 +1,23 @@
+# Build output
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# CubeMX / IDE leftovers
+.mxproject
+*.bak
+.settings/
+Debug/
+Release/
+
+# VS Code: keep shared config, ignore personal state
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
